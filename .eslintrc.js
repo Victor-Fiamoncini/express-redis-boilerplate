@@ -9,6 +9,7 @@ module.exports = {
 		SharedArrayBuffer: 'readonly',
 		__dirname: true,
 		module: true,
+		process: true,
 	},
 	parserOptions: {
 		ecmaVersion: 11,
