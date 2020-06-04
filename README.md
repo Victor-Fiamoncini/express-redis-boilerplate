@@ -1,4 +1,4 @@
-# Express Redis Boilerplate 📦
+# Mail Service Boilerplate 📦
 
 Boilerplate with sending email service ✉️ for ExpressJS apps, built with 💚 Express, Nodemailer, Redis...
 
