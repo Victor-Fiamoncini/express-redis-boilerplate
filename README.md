@@ -1,6 +1,6 @@
 # Mail Service Boilerplate 📦
 
-Boilerplate with sending email service ✉️ for ExpressJS apps, built with 💚 Express, Nodemailer, Redis...
+Boilerplate with sending email service ✉️ for ExpressJS apps, built with Express, Nodemailer, Redis...
 
 ## How to install and run 🛠
 Using npm:
